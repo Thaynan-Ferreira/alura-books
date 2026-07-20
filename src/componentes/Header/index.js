@@ -12,8 +12,8 @@ function Header(){
     return (
         <HeaderContainer>
             <Logo/>
-            <OpcoesHeader/>
-            <IconesHeader/>
+            <OpcoesHeader />
+            <IconesHeader />
         </HeaderContainer>
     )
 }
